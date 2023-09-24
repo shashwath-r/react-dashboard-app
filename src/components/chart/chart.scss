@@ -1,0 +1,17 @@
+.chart {
+  flex: 4;
+  -webkit-box-shadow: 3px -3px 10px -1px rgba(8, 3, 8, 1);
+  -moz-box-shadow: 3px -3px 10px -1px rgba(8, 3, 8, 1);
+  box-shadow: 3px -3px 10px -1px rgb(117, 112, 117);
+  padding: 10px;
+  border-radius: 5px;
+  color: gray;
+
+  .title{
+    margin-bottom: 15px;
+  }
+  .chartGrid{
+    stroke: rgb(230, 224, 224);
+  }
+
+}
